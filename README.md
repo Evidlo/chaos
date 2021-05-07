@@ -6,5 +6,7 @@ Thanks to [chuascircuits.com](http://www.chuacircuits.com/howtobuild1.php) for t
 
 ![](chaos1.jpg)
 ![](chaos2.jpg)
+![](chaos3.jpg)
+![](chaos4.jpg)
 ![](schematic.png)
 
